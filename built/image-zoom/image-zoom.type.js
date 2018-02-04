@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var Props = (function () {
+var Props = /** @class */ (function () {
     function Props() {
         /**
          * 操作区域宽度
@@ -96,7 +96,7 @@ var Props = (function () {
     return Props;
 }());
 exports.Props = Props;
-var State = (function () {
+var State = /** @class */ (function () {
     function State() {
         /**
          * 中心 x 坐标

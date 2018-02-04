@@ -31,7 +31,7 @@ var isMobile = function () {
     }
 };
 //
-var ImageViewer = (function (_super) {
+var ImageViewer = /** @class */ (function (_super) {
     __extends(ImageViewer, _super);
     function ImageViewer() {
         var _this = _super !== null && _super.apply(this, arguments) || this;

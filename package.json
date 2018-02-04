@@ -17,7 +17,8 @@
   "license": "ISC",
   "peerDependencies": {
     "react": "*",
-    "react-native": "*"
+    "react-native": "*",
+    "typescript": "^2.4.2"
   },
   "devDependencies": {
     "@types/react": "*",
@@ -25,7 +26,6 @@
     "ascoders-tslint-config": "^1.0.2",
     "react": "*",
     "react-native": "*",
-    "tslint": "^5.8.0",
-    "typescript": "^2.4.2"
+    "tslint": "^5.8.0"
   }
 }
